@@ -307,13 +307,13 @@ header h2
     }
 
 .img-satu {
-    background: url("img/pantai.jpg");
+    background: url("pantai.jpg");
     width: 720px;
     padding: 20px;
   }
 
   .img-dua {
-    background: url("img/wisata-luar.jpg");
+    background: url("wisata-luar.jpg");
     width: 720px;
     padding: 20px;
   }
